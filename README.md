@@ -78,5 +78,8 @@ Con esto ya tenemos nuestro entorno listo, ahora toca escribir el código y come
 Recuerda hacerlo de manera ordenada, 📁 crea una carpeta `test` dentro de `src` y añade un archivo separado para cada componente, por ejemplo: `MiComponente.test.jsx`.
 
 
-En esta imágen podrás ver las partes de las que se comone un test con React Testing Library 
+En esta imágen podrás ver las partes de las que se compone un test con React Testing Library 
 ![estructura de un rest](./src/assets/test_structure.png)
+
+*Este ejemplo visual utiliza `toBeInTheDocument()` un método de 
+`jest-dom`, Vitest dispone de `toBeDefined()` que funciona de manera similar.
