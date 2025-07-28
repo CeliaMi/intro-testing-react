@@ -1,4 +1,4 @@
-# Intro a testin React + Vitest
+# Intro a testing React + Vitest
 
 Cuando realizamos la instalación de React utilizando la herramienta Vite, los test no vendrán por defecto cómo ocurría antes con create-react-app. 
 
